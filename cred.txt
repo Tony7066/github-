@@ -1,2 +1,3 @@
 name = tony 
-pass = 12345 
+pass = 1245
+adhaar = 129498
